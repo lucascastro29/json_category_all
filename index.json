@@ -3,13 +3,13 @@
     "name": "Autos",
     "description": "Los mejores precios en autos 0 kilómetro, de alta y media gama.",
     "productCount": "122",
-    "imgSrc": imgcat1
+    "imgSrc": "imgcat1"
   },
   {
     "name": "Juguetes",
     "description": "Encuentra aquí los mejores precios para niños/as de cualquier edad.",
     "productCount": "354",
-    "imgSrc": imgcat2
+    "imgSrc": "imgcat2"
   },
   {
     "name": "Muebles",
